@@ -1,4 +1,5 @@
-#🏁 CountingCars Showcase
+#CountingCars Showcase
+🏁 CountingCars Showcase
 
 CountingCars Showcase is a racing-inspired car showcase website designed to present high-performance cars in a stylish, modern layout.
 The project focuses on smooth auto-scrolling sections, bold typography, and a premium visual experience.
