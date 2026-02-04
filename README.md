@@ -1,4 +1,4 @@
-#CountingCars Showcase
+**#CountingCars Showcase**
 🏁 CountingCars Showcase
 
 CountingCars Showcase is a racing-inspired car showcase website designed to present high-performance cars in a stylish, modern layout.
@@ -29,3 +29,4 @@ JavaScript (Vanilla)
 Google Fonts
 
 Font Awesome
+
